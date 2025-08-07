@@ -19,6 +19,8 @@
 .about{
     background-color:rgba(128, 128, 128, 0.371) ;
     padding-top: 20px;
+    padding-bottom: 32px;
+
 }
 .custom-list{
     list-style: none;
